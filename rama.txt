@@ -1,0 +1,11 @@
+EC2-lanching instance -> AMI(ubuntu)-> Choose instance type (t2-Micro) - How many instance (1) -> default gb-> configure Security (6) -> 
+
+
+git stash 
+git stash show <stash_ID>
+git stash apply <stash_ID>
+git config --global user.name 
+git config --global user.email <email_id>
+git config --global list
+git config  --global autocorrect 1 
+git log --pretty=format:"%h "
